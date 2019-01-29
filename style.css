@@ -1,0 +1,57 @@
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+#uppertable{
+  background-color:rgb(19, 111, 181);
+  text-align: center;
+  color: #ffffff;
+  width: 700px;
+  border: 1px solid black;
+  padding: 0px;
+  margin: 0px;
+  }
+   #lefttable {
+  background-color:white;
+  width: 150px;
+  Height: 450px;
+  border: 0px solid black;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  }
+  #maintable {
+  background-color:white;
+  width: 250px;
+  Height: 450px;
+  border: 0px solid black;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  }
+  #overline{
+    Height: 15px;
+    Width: 250px;
+    background-color: rgb(156, 210, 244);
+  }
+  #sidetable {
+  background-color:white;
+  font-size: 8pt;
+  width: 150px;
+  height: 420px;
+  border: 0px solid black;
+  float: left;
+  margin: 10px;
+  padding-top: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  }
+  #indented {
+    margin-left: 6px;
+  }
+  footer {
+    background-color:rgb(19, 111, 181);
+    width: 700px;
+    height: 20px;
+    margin-top: 500px;
+
+  }
